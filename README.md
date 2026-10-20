@@ -1,4 +1,4 @@
-# CaneEra
+# Canera
 
 A low-cost, Arduino-based hand-safety system for sugarcane crushing machines.
 
@@ -6,7 +6,7 @@ A low-cost, Arduino-based hand-safety system for sugarcane crushing machines.
 
 ## Problem
 
-Sugarcane crushing machines can cause serious hand-crushing injuries when a user's hand gets too close to the rollers. Safety systems for this exist, but many are expensive. CaneEra aims to be a low-cost alternative.
+Sugarcane crushing machines can cause serious hand-crushing injuries when a user's hand gets too close to the rollers. Safety systems for this exist, but many are expensive. Canera aims to be a low-cost alternative.
 
 ## How It Works
 
